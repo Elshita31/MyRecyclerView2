@@ -19,5 +19,14 @@
 <p>Jika memilih salah satu foto Member akan muncul pesan</p>
 <img src="5.jpeg" height="600px" width="300px">
 
+<p>Tampilan Mode Card View</p>
+<img src="6.jpeg" height="600px" width="300px">
 
+<p>Jika memilih button Favorite akan muncul pesan</p>
+<img src="7.jpeg" height="600px" width="300px">
+
+<p>Jika memilih button Share akan muncul pesan</p>
+<img src="8.jpeg" height="600px" width="300px">
+
+<h2>##Elshita##</h2>
 
